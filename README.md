@@ -27,10 +27,6 @@ The agent learns how to land a spacecraft safely on the landing pad by interacti
 ## 📂 Project Structure
 
 ```
-LunarLander/
-│── models/
-│   └── lunarlander_model.zip
-│
 ├── train.py
 ├── test.py
 ├── app.py
